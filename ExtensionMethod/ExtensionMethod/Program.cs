@@ -1,9 +1,12 @@
-﻿namespace ExtensionMethod
+﻿using ExtensionMethod.Extensions;
+
+namespace ExtensionMethod
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            //example01
             DateTime dt = new DateTime(2024, 05, 28, 01, 53, 00);
             Console.WriteLine(dt.ElapsedTime());
 
@@ -18,6 +21,10 @@
 
             DateTime dt5 = new DateTime(1970, 09, 19, 09, 00, 00);
             Console.WriteLine(dt5.ElapsedTime());
+
+            //example02
+            string s1 = "Good morning dear students!";
+            Console.WriteLine(s1.Cut(10));
 
         }
     }
