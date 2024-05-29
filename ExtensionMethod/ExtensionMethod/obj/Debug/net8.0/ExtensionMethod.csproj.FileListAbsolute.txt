@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.sourcelink.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao16-SpecialC#Topics\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll
